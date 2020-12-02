@@ -1,0 +1,4 @@
+> this is a node.js server using express.
+> you must have node.js installed on your system
+> once you download the project, you need to run npm install, then it will install all the dependences
+> the code is easy to edit

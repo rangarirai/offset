@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "cardIndex": 1,
+            "pageTitle": "TCS Data Marketplace",
+            "imagePath": "/content/dam/digistore/narratives/images/card-images/RnI_SummitNarrative_HarnAbund_Data_DataMarketplace_Aug2019_MP.jpg",
+            "pagePath": "/content/digistore/narrative/tcs-data-marketplace.html",
+            "image": {
+                "onex": "/content/dam/digistore/narratives/images/card-images/RnI_SummitNarrative_HarnAbund_Data_DataMarketplace_Aug2019_MP.jpg",
+                "twox": "/content/dam/digistore/narratives/images/card-images/RnI_SummitNarrative_HarnAbund_Data_DataMarketplace_Aug2019_MP.jpg"
+            },
+            "description": "The feature-rich TCS Data Marketplace platform enables the sale and purchase of data for client ecosystems",
+            "cardSectionTagTitle": "",
+            "assetPublishedDate": "",
+            "assetCreatedDate": "06 Sep 2019",
+            "assetCreated": "Sep 6, 2019 11:31:08 AM",
+            "duration": "14",
+            "durations": 0,
+            "likeCount": -1,
+            "averagerating": "0",
+            "liked": false,
+            "views": 0,
+            "displayMessage": "",
+            "starDisplay": "<span class=\"star disrate\"></span><span class=\"star disrate\"></span><span class=\"star disrate\"></span><span class=\"star disrate\"></span><span class=\"star disrate\"></span>",
+            "newFlag": false,
+            "desFlag": false,
+            "shortDescription": "",
+            "clusterName": ""
+        }
+    ]
+}
